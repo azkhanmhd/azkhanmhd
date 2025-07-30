@@ -14,3 +14,7 @@
 ---
 
 > 🧊 No fake flex — Just raw progress🔥. Let’s see where this goes 😌😮‍💨
+
+<br>
+
+- My Other Account: [![Second Account](https://img.shields.io/badge/GitHub-azkhan--mhd-181717?logo=github)](https://github.com/azkhan-mhd)

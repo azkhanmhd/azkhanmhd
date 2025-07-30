@@ -1,16 +1,16 @@
-## Hi there 👋
+<h2 align="center">Heyy 👋 I'm Azkhan 💗</h2>
 
-<!--
-**azkhanmhd/azkhanmhd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+- 🖖 You can call me **Azk** 😁  
+- 🧑‍🎓 A/L Student (Maths & ICT)  
+- ❤️ 🥊Boxing & ⚽Football  
+- 💻 Got into **Node.js** =>Few years ago  
+- 🧠 Currently learning **Python** & **PHP**
+- 📉 Took a break from coding — life got busy, but I'm back  
+- 🌱 Exploring Web Dev & maybe Cybersecurity soon  
+- 🚀 Using GitHub to track my journey, growth & progress
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+> 🧊 No fake flex — Just raw progress🔥. Let’s see where this goes 😌😮‍💨

@@ -2,18 +2,18 @@
 
 ---
 
-- 🖖 You can call me **Azk** 😁  
+- 🖖 You Can Call Me **Azk** 😁  
 - 🧑‍🎓 A/L Student (Maths & ICT)  
 - ❤️ 🥊Boxing & ⚽Football  
-- 💻 Got into **Node.js** =>Few years ago  
-- 🧠 Currently learning **Python** & **PHP**
+- 💻 Got into **Node.js** => Few years ago 😙
+- 🧠 Currently learning **Python**, **PHP** & **ReactJS**
 - 📉 Took a break from coding — life got busy, but I'm back  
-- 🌱 Exploring Web Dev & maybe Cybersecurity soon  
-- 🚀 Using GitHub to track my journey, growth & progress
+- 🌱 Exploring Web Dev & Maybe Cybersecurity soon  
+- 🚀 Using GitHub to track my journey, growth & progress...
 
 ---
 
-> 🧊 No fake flex — Just raw progress🔥. Let’s see where this goes 😌😮‍💨
+> 🧊 No Fake Flex — Just Raw Progress🔥... Let’s See Where This Goes... 😌😮‍💨
 
 <br>
 

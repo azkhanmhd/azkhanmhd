@@ -14,3 +14,10 @@
 ---
 
 > 🧊 No Fake Flex — Just Raw Progress🔥... Let’s See Where This Goes... 😌😮‍💨
+
+---
+
+## 🔗 Other Profiles
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/azkhanmhd)
+[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/azkhanmhd)

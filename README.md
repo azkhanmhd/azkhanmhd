@@ -4,7 +4,7 @@
 
 - 🖖 You Can Call Me **Azk** 😁  
 - 🧑‍🎓 A/L Student (Maths & ICT)  
-- ❤️ 🥊Boxing & ⚽Football  
+- ❤️ Boxing🥊 & Football⚽  
 - 💻 Got into **Node.js** => Few years ago 😙
 - 🧠 Currently learning **Python**, **PHP** & **ReactJS**
 - 📉 Took a break from coding — life got busy, but I'm back  

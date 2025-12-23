@@ -6,7 +6,7 @@
 - 🧑‍🎓 A/L Student (Maths & ICT)  
 - ❤️ Boxing🥊 & Football⚽  
 - 💻 Got into **Node.js** => Few years ago 😙
-- 🧠 Currently learning **Python**, **PHP** & **ReactJS**
+- 🧠 Currently learning **Python**, **Java**, **PHP**, **C** & **ReactJS**
 - 📉 Took a break from coding — life got busy, but I'm back  
 - 🌱 Exploring Web Dev & Maybe Cybersecurity soon  
 - 🚀 Using GitHub to track my journey, growth & progress...

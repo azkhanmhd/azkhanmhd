@@ -23,7 +23,6 @@
 [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/azkhanmhd)
 [![Goodreads](https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white)](https://goodreads.com/azkhanmhd)
 
----
 
   ## 📧 Can reach out via
   <a href="mailto:contact@azkhan.org">
